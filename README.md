@@ -1,1 +1,1 @@
-"# Barcode_Image_Classification" 
+# Barcode_Image_Classification
